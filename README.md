@@ -1,8 +1,7 @@
 ### Hi there! My name is Ilya Mezentsev. 🖖
 ##  I'm a Data Analyst     
 
-### :man_technologist: About Me :
-- 🤖 I hold an engineering degree in the field of mechatronics and robotics, with 10 years of experience as an engineer in [![Siemens](https://img.shields.io/badge/Siemens-9cf?style=for-the-badge)](https://www.mobility.siemens.com/global/en/portfolio/rail/rolling-stock/components-and-systems/traction-converters.html).
+- 🤖 I hold an engineering degree in the field of mechatronics and robotics, with 10 years of experience as an engineer in <a href="https://www.mobility.siemens.com/global/en/portfolio/rail/rolling-stock/components-and-systems/traction-converters.html"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Siemens_AG_logo.svg" alt="Siemens AG Logo" width="8%"></a>
 - 👨‍💻 I have recently transitioned to data analytics and have obtained a [certificate](https://drive.google.com/drive/u/0/folders/1B0Dtwrm2UAJkPkdgbYcSQYX3wN2gwBMK)  from Yandex EdTech.
 - 📚 I am dedicated to continuous learning, regularly taking short courses, reading feature articles, and attending workshops to stay updated in the field. 
 - 📊 With my strong engineering approach and analytical mindset, I am enthusiastic about applying my skills to work with data.
@@ -21,6 +20,12 @@
   <a href="https://t.me/Optimus96">
     <img src="https://img.shields.io/badge/Telegram-9cf?logo=Telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a>
+</div>
+
+### 🛠️ Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  
 </div>
 
 <!--
