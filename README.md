@@ -6,7 +6,7 @@
   <a href="mailto:ilya.mezentsev777@gmail.com">
     <img src="https://img.shields.io/badge/Mail-9cf?style=for-the-badge&logo=gmail&logoColor=red" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/eliasmezentsev/">
+  <a href="https://www.linkedin.com/in/ilyamezentcev/">
     <img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Optimus96">
